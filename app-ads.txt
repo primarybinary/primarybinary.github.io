@@ -1,4 +1,5 @@
 google.com, pub-3313064126040437, DIRECT, f08c47fec0942fa0
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 applovin.com, 840e8a037bf2be49026c722dc8e1f6d0, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
